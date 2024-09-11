@@ -1,3 +1,4 @@
 # JSBeginner
-# some small projects
+# Practice
 #For Recalling my Skills
+Small own Projects
